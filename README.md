@@ -10,8 +10,8 @@ Siguendo las indicaciones del Compañero Lider Manuel Cuevas:
 - Dockerice el Servidor y la Base de datos
 
 ### Puntos de mejora
- - Encapsulamiento: controlasr mas concientemente el acceso a atributos del dominio
-   En algunas ocaciones user indiscriminadamente @Data
+ - Encapsulamiento: controlar mas concientemente el acceso a atributos del dominio
+   En algunas ocaciones use indiscriminadamente @Data
  
  - Testing nulo
  - Mas objects values
