@@ -8,3 +8,12 @@ Siguendo las indicaciones del Compañero Lider Manuel Cuevas:
 - Diseñe y desarrolle una interfaz grafica para el cliente Usando Angular y teniendo een cuenta la Responsividad. (Evidencias en Repo FRONT)
 - Consumi la API
 - Dockerice el Servidor y la Base de datos
+
+### Puntos de mejora
+ - Encapsulamiento: controlasr mas concientemente el acceso a atributos del dominio
+   En algunas ocaciones user indiscriminadamente @Data
+ 
+ - Testing nulo
+ - Mas objects values
+ - Comentar los constructores para cada caso? es necesario ?
+ 
