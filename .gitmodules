@@ -1,0 +1,6 @@
+[submodule "FRONT"]
+	path = FRONT
+	url = https://github.com/Fernando4974/Airplane-Ticket-Booking-v3-FRONT.git
+[submodule "BACK"]
+	path = BACK
+	url = https://github.com/Fernando4974/Airplane-Ticket-Booking-v3.git
